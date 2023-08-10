@@ -1,0 +1,117 @@
+{
+    "doctor": [
+        {
+            "docId": "80",
+            "docName": "Amit",
+            "appointments": [
+                {
+                    "2023-08-10": [
+                        {
+                            "intime": "05:00",
+                            "outtime": "06:00"
+                        },
+                        {
+                            "in-time": "08:00",
+                            "outtime": "09:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "docId": "20",
+            "docName": "namit",
+            "appointments": [
+                {
+                    "2023-08-10": [
+                        {
+                            "intime": "05:00",
+                            "outtime": "06:00"
+                        },
+                        {
+                            "intime": "06:00",
+                            "outtime": "07:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "docId": "30",
+            "docName": "hello",
+            "appointments": [
+                {
+                    "2023-08-10": [
+                        {
+                            "in-time": "5:00",
+                            "out-time": "6:00"
+                        },
+                        {
+                            "in-time": "6pm",
+                            "out-time": "7pm"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "docId": "40",
+            "docName": "abc",
+            "appointments": [
+                {
+                    "2023-08-10": [
+                        {
+                            "in-time": "5pm",
+                            "out-time": "6pm"
+                        },
+                        {
+                            "in-time": "6pm",
+                            "out-time": "7pm"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "docId": "50",
+            "docName": "xyz",
+            "appointments": [
+                {
+                    "2023-08-10": [
+                        {
+                            "in-time": "5pm",
+                            "out-time": "6pm"
+                        },
+                        {
+                            "in-time": "6pm",
+                            "out-time": "7pm"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "docId": "60",
+            "docName": "hy",
+            "appointments": [
+                {
+                    "2023-0805:00": [
+                        {
+                            "in-time": "5pm",
+                            "out-time": "6pm"
+                        },
+                        {
+                            "in-time": "6pm",
+                            "out-time": "7pm"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+
+
+
+
+   
